@@ -37,6 +37,13 @@ main ol li {
     margin-bottom: 10px;
 }
 
+.continued {
+    font-size: 1.2em;
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+}
+
 footer {
     text-align: center;
     margin-top: 30px;
